@@ -1,0 +1,23 @@
+{
+  "name": "performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdev0612/node-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartdev0612/node-performance/issues"
+  },
+  "homepage": "https://github.com/smartdev0612/node-performance#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
